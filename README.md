@@ -1,2 +1,2 @@
-# DaCOD-Depth-aided-Camouflaged-Object-Detection-
+# DaCOD-Depth-aided-Camouflaged-Object-Detection
 Depth-aided Camouflaged Object Detection
