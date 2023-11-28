@@ -6,7 +6,7 @@
 
 ## Preface
 
-*   This repository provides code for "Depth-aided Camouflaged Object Detection" **ACM MM 2023**. [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611874).
+##  This repository provides code for "Depth-aided Camouflaged Object Detection" **ACM MM 2023**. [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611874).
 
 <p align="center">
     <img src="./Images/mm_generate_depth4.png"/> <br />
