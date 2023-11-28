@@ -32,4 +32,4 @@ Please cite our paper if you find the work useful:
           }
 
 
-**[Click here back to top](#DaCOD-Depth-aided-Camouflaged-Object-Detection)**
+**[🔝 back to top](#DaCOD-Depth-aided-Camouflaged-Object-Detection)**
