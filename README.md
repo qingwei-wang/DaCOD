@@ -22,7 +22,7 @@ Camouflaged Object Detection (COD) aims to identify and segment objects that ble
 <p align="center">
     <img src="./Images/Image_mm_4.png"/> <br />
     <em> 
-    Figure 2: Overall framework of the proposed DaCOD. RGB and depth images are firstly concatenated by batch connections, and then fed into two different backbones, ResNet and Swin transformer, for collaboratively learning. 
+        Figure 2: Overall framework of the proposed DaCOD. RGB and depth images are firstly concatenated by batch connections, and then fed into two different backbones, ResNet and Swin transformer, for collaboratively learning. 
 The collaboration features are separated by Batch Split Block (BSB), and then sent to Cross-modal Asymmetric Fusion (CAF) to produce the final prediction.
     </em>
 </p>
