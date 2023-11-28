@@ -4,11 +4,12 @@
 
 # Code is coming soon!!!
 
-## 1. Preface
+## Preface
 
 *   This repository provides code for "Depth-aided Camouflaged Object Detection" **ACM MM 2023**. [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3611874).
 
-## 2. Citation
+
+## Citation
 Please cite our paper if you find the work useful: 
 
           @inproceedings{10.1145/3581783.3611874,
@@ -21,4 +22,4 @@ Please cite our paper if you find the work useful:
           }
 
 
-**[Click here back to top](#1-preface)**
+**[Click here back to top](#preface)**
