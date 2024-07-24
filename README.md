@@ -29,7 +29,7 @@ The collaboration features are separated by Batch Split Block (BSB), and then se
 
 ## Results
 
-[Results ：](https://pan.baidu.com/s/1SvpsMy1vuImCGbouAHL7jg) Code: h7vj
+You can download the results at [here](https://pan.baidu.com/s/1SvpsMy1vuImCGbouAHL7jg) (Code: h7vj)
 
 ## Citation
 Please cite our paper if you find the work useful: 
