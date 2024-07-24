@@ -15,6 +15,7 @@
     </em>
 </p>
 
+
 ## Abstract
 
 Camouflaged Object Detection (COD) aims to identify and segment objects that blend into their surroundings. Since the color and texture of the camouflaged objects are extremely similar to the surrounding environment, it is super challenging for vision models to precisely detect them. Inspired by research on biology and evolution, we introduce depth information as an additional cue to help break camouflage, which can provide spatial information and texture-free separation for foreground and background. To dig clues of camouflaged objects in both RGB and depth modalities, we innovatively propose Depth-aided Camouflaged Object Detection (DaCOD), which involves two key components. We firstly propose the Multi-modal Collaborative Learning (MCL) module, which aims to collaboratively learning deep features from both RGB and depth channels via a hybrid backbone. Then, we propose a novel Cross-modal Asymmetric Fusion (CAF) strategy, which asymmetrically fuse RGB and depth information for complementary depth feature enhancement to produce accurate predictions. We conducted numerous experiments of the proposed DaCOD on three widely-used challenging COD benchmark datasets, in which DaCOD outperforms the current state-of-the-arts by a large margin.
@@ -26,6 +27,18 @@ Camouflaged Object Detection (COD) aims to identify and segment objects that ble
 The collaboration features are separated by Batch Split Block (BSB), and then sent to Cross-modal Asymmetric Fusion (CAF) to produce the final prediction.
     </em>
 </p>
+
+>## Usage
+>
+>>The training and testing experiments are conducted using PyTorch with a single RTX 3090 GPU of 24 GB Memory.
+>>
+>>Download `swin_large_patch4_window7_224_22k.pth` at [here](https://pan.baidu.com/s/1smqwGSiHr_Hw1uSGnWC70Q) (Code: ksv5), and put it into `.\backbone`
+>>
+>>Download `resnet50-19c8e357.pth` at [here](https://pan.baidu.com/s/1FVLyuAqxnFwxusKpkVM1dg) (Code: qxju), and put it into `.\backbone`
+>>
+>>Download `55.pth` at [here](https://pan.baidu.com/s/1MIz-oyKxlit1jnxpYDuc1A) (Code: sj8w), and put it into `.\checkpoints\Depth_cod`
+
+
 
 ## Datasets
 
